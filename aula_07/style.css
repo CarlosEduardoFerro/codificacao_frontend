@@ -1,0 +1,32 @@
+.container-1{
+    background-color: crimson;
+    border-top-style: double;
+    border-right-style:inherit;
+    border-bottom-style: groove;
+    border-left-style: ridge;
+    border-width: 10px;
+    border-top-color: darkolivegreen;
+    border-left-color: indigo;
+    border-right-color: gold;
+    border-bottom-color: darkblue;
+}
+.container-2{
+    background-color: rgb(17, 0, 255);
+    border-top-style: double;
+    border-right-style:inherit;
+    border-bottom-style: groove;
+    border-left-style: ridge;
+    border-width: 10px;
+    border-top-color: darkolivegreen;
+    border-left-color: indigo;
+    border-right-color: gold;
+    border-bottom-color: darkblue;
+}
+
+p{
+    font-size: x-large;
+}
+
+.carro{
+    color:honeydew;
+}
