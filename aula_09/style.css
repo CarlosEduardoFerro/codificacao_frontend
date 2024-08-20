@@ -1,0 +1,16 @@
+div{
+    background-color: aqua;
+}
+
+.um{
+    background-color: aquamarine;
+}
+
+.tres{
+    background-color: blue;
+}
+
+body{
+    background-image: url(./pateta-w.jpg);
+    background-repeat: repeat-x;
+}
