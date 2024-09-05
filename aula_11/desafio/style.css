@@ -3,15 +3,27 @@ body{
 }
 
 img{
-    width: 400px;
-}
-.coluna{
-    width: 50%;
-    margin-top: 100px;
-    display: flex;
+    height: 300px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 
-.conteiner{
+.container{
+    display: flex;
     background-color: white;
     width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.texto{
+    display: flex;
+    font: unset;
+}
+
+.nome{
+    font-size: xx-large;
+    font-style: bold;
 }
