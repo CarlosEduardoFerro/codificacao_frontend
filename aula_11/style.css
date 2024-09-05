@@ -1,0 +1,22 @@
+h1{
+    display: block;
+    background-color: brown;
+    height: 100px;
+    width: 100%;
+}
+
+p{
+    display: block;
+    background-color: aqua;
+}
+
+span{
+    background-color: lightcoral;
+    height: 100px;
+    width: 100%;
+}
+
+.span2{
+    display: block;
+    background-color: darkolivegreen;
+}
