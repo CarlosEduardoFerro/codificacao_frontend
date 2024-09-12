@@ -1,0 +1,136 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.alagoas{
+    display: flex;
+    height: 400px;
+}
+
+.alagoas-1{
+    width: 200px;
+    background-color: red;
+}
+
+.alagoas-2{
+    width: 200px;
+    background-image: url(Brasão_de_armas_do_Estado_de_Alagoas.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.alagoas-3{
+    width: 200px;
+    background-color: blue;
+}
+
+.franca{
+    display: flex;
+    height: 400px;
+}
+
+.franca-1{
+    width: 200px;
+    background-color: blue;
+}
+
+.franca-2{
+    width: 200px;
+}
+
+.franca-3{
+    width: 200px;
+    background-color: red;
+}
+
+.italia{
+    display: flex;
+    height: 400px;
+}
+
+.italia-1{
+    width: 200px;
+    background-color: limegreen;
+}
+
+.italia-2{
+    width: 200px;
+}
+
+.italia-3{
+    width: 200px;
+    background-color: red;
+}
+
+.alemanha{
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+}
+
+.alemanha-1{
+    height: 200px;
+    width: 600px;
+    background-color: black;
+}
+
+.alemanha-2{
+    height: 200px;
+    width: 600px;
+    background-color: red;
+}
+
+.alemanha-3{
+    height: 200px;
+    width: 600px;
+    background-color: yellow;
+}
+
+.argentina{
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+}
+
+.argentina-1{
+    height: 200px;
+    width: 600px;
+    background-color: rgb(73, 107, 216);
+}
+
+.argentina-2{
+    height: 200px;
+    width: 600px;
+    background-image: url(1000_F_176624236_Zuoh49fE67aedfGzhqgzdD34kGqT9xhZ.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.argentina-3{
+    height: 200px;
+    width: 600px;
+    background-color: rgb(73, 107, 216);
+}
+
+.nigeria{
+    display: flex;
+    height: 400px;
+}
+
+.nigeria-1{
+    width: 200px;
+    background-color: rgb(25, 129, 25);
+}
+
+.nigeria-2{
+    width: 200px;
+}
+
+.nigeria-3{
+    width: 200px;
+    background-color:  rgb(25, 129, 25);
+}
